@@ -27,17 +27,17 @@ Happy learning!
    - [x] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
    - [x] [Image classification notes](notes/image-classification.pdf)
    - [x] [Linear classification notes](notes/linear-classification.pdf)
-- [ ] **Lecture 3:** Linear classification II; Higher-level
+- [x] **Lecture 3:** Linear classification II; Higher-level
       representations, image features; Optimization, stochastic
       gradient descent
    - [x] [Video](https://youtu.be/qlLChbHhbg4)
-   - [ ] [Slides](slides/lecture3.pdf)
+   - [x] [Slides](slides/lecture3.pdf)
    - [x] [Linear classification notes](notes/linear-classification.pdf)
-   - [ ] [Optimization notes](notes/optimization.pdf)
+   - [x] [Optimization notes](notes/optimization.pdf)
 - [ ] **Lecture 4:** Backpropagation; Introduction to neural networks
-   - [ ] [Video](https://youtu.be/i94OvYb6noo)
-   - [ ] [Slides](slides/lecture4.pdf)
-   - [ ] [Backprop notes](notes/backprop.pdf)
+   - [x] [Video](https://youtu.be/i94OvYb6noo)
+   - [x] [Slides](slides/lecture4.pdf)
+   - [x] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
       - [ ] [Efficient Backprop](papers/efficient-backprop.pdf) -- 3/44
       - [ ] [Automatic differentiation survey](papers/automatic-differentiation.pdf)
