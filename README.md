@@ -39,7 +39,7 @@ Happy learning!
    - [x] [Slides](slides/lecture4.pdf)
    - [x] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
-      - [ ] [Efficient Backprop](papers/efficient-backprop.pdf) -- 3/44
+      - [x] [Efficient Backprop](papers/efficient-backprop.pdf) -- 3/44
       - [ ] [Automatic differentiation survey](papers/automatic-differentiation.pdf)
       - [ ] [Calculus on Computational Graphs](papers/backprop-calculus.pdf)
       - [ ] [Backpropagation Algorithm](papers/backprop-algorithm.pdf)
