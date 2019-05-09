@@ -40,7 +40,7 @@ Happy learning!
    - [x] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
       - [x] [Efficient Backprop](papers/efficient-backprop.pdf) -- 3/44
-      - [ ] [Automatic differentiation survey](papers/automatic-differentiation.pdf)
+      - [x] [Automatic differentiation survey](papers/automatic-differentiation.pdf)
       - [ ] [Calculus on Computational Graphs](papers/backprop-calculus.pdf)
       - [ ] [Backpropagation Algorithm](papers/backprop-algorithm.pdf)
       - [ ] [Learning: Neural Nets, Back Propagation](https://youtu.be/q0pm3BrIUFo)
